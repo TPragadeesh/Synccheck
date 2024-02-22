@@ -1,13 +1,1 @@
-This file is used to check autosave.Check again ldfjssssssssssssssssssssssssssssssssssssslng;alg
-a verse or passage of Scripture chosen especially for the subject of a sermon or for authoritative support (as for a doctrine)
-(2)
-: a passage from an authoritative source providing an introduction or basis (as for a speech)
-b
-: a source of information or authority
-4
-: THEME, TOPIC
-5
-a
-: the words of something (such as a poem) set to music
-b
-: matter chiefly in the form of words or symbols that is treated as data for processing by computerized equipment
+my new file contents
